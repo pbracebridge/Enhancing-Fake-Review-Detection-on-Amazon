@@ -8,7 +8,7 @@ This MSc dissertation project investigates the detection of fake reviews on Amaz
 
 🎯 Objectives
 - Improve baseline classifiers such as Logistic Regression, SVM, and Random Forest by combining each with deep learning techniques—RNN and GNN—to develop hybrid models for fake review detection.
-- Capture temporal patterns in reviewer behaviour and reviewer-reviewer relationships.
+- Capture temporal patterns in reviewer behaviour and relational or group structures.
 - Compare the performance of traditional vs. advanced models on detection accuracy.
 - Present a robust evaluation using real-world Amazon review data.
 
